@@ -1,0 +1,2 @@
+SalvaPets – como executar: abra index.html no navegador (duplo clique). Não precisa de servidor.
+Dados em js/data.js; lógica em js/main.js; estilos em css/style.css. Cadastro/login/interesses são demonstrativos (localStorage).
